@@ -16,7 +16,7 @@
    Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
    ## Sample outputs
-   ![Survival by Sex](outputs/survival_by_sex.png)
+   ![Survival by Sex](outputs/Survival_by_sex.png)
    ![Correlation Heatmap](outputs/correlation_heatmap.png)
 
    ## How to run
