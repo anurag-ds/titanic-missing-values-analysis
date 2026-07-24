@@ -13,7 +13,7 @@
    - Visualizes survival rates by sex, class, and other factors
 
    ## Tools used
-   Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn,jupyter lab
+   Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
    ## Sample outputs
    ![Survival by Sex](outputs/Survival_by_sex.png)
